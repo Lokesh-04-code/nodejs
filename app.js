@@ -17,3 +17,4 @@ const _ = require("lodash");
 const items = [1, [2, 5, [3, 6, [4]]]];
 const newitems = _.flattenDeep(items);
 console.log(newitems);
+console.log("this is lokesh");
